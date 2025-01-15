@@ -1,0 +1,40 @@
+Body {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 125%;
+text-align: justify;
+display: inline;
+}
+
+header {
+  background-color: #add8e6;
+}
+
+nav {
+  background-color: #d3d3d3;  
+}
+
+Main {
+  background-color: #ffff00;
+  font-size: 115%;
+}
+
+Footer {
+  background-color: #d3d3d3;
+}
+
+li {
+  display: inline-block;
+  height: 25px;
+  width: 300px;
+  
+}
+
+h1{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: #00f;
+  text-align: center;
+}
+
+p{
+  line-height: normal;
+}
